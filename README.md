@@ -1,2 +1,2 @@
 # MACL-College-Projects
-Projects from Master's in Computational Linguistics
+Project Reports from Master's in Computational Linguistics
